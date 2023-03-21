@@ -28,9 +28,13 @@ print("{:.2f}".format(d))
   
 
 
-### OUTPUT:
+
+# OUTPUT:
+##![Distance](https://user-images.githubusercontent.com/119393935/226512220-53e401eb-b48f-4ae7-9d1f-6bba13de9acf.png)
 
 
-![Distance](https://user-images.githubusercontent.com/119393935/226512008-0397347e-10b7-4d37-b1ad-45dbbc42d885.png
+
+
 
 ### RESULT:
+Thus,a python program to find the distance between 2 points is executed successfully
