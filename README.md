@@ -37,4 +37,4 @@ print("{:.2f}".format(d))
 
 
 ### RESULT:
-Thus,a python program to find the distance between 2 points is executed successfully
+Thus,a python program to find the distance between 2 points is executed successfully.
