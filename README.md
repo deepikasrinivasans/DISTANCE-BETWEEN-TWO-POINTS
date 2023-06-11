@@ -26,9 +26,6 @@ d=math.sqrt((d2[0]-d1[0])**2+(d2[1]-d1[1])**2)
 print("{:.2f}".format(d))
 ```
   
-
-
-
 # OUTPUT:
 ##![Distance](https://user-images.githubusercontent.com/119393935/226512220-53e401eb-b48f-4ae7-9d1f-6bba13de9acf.png)
 
