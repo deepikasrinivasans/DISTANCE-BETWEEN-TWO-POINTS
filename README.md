@@ -9,7 +9,11 @@ Using import math function,do the calculation
 Take the coordinates as |1 and |2
 ### Step 3: 
 Substitute the values in the distance formula 
+
+
 ![WhatsApp Image 2023-06-14 at 11 40 13 AM](https://github.com/deepikasrinivasans/DISTANCE-BETWEEN-TWO-POINTS/assets/119393935/aae4766a-84de-444f-b88f-a1f822121504)
+
+
 ### Step 4:
 Using the print function,display the distance between the two points
 ### Step 5:
